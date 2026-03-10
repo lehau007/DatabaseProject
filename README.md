@@ -1,5 +1,5 @@
 
-# Database_Project
+# DatabaseProject
 
 This project is a web application built using Django to demonstrate the integration between web development and database management (PostgreSQL).
 
